@@ -20,5 +20,10 @@
 >>>move모드 : wasd를 눌렀을때 좌표를 이동시키고 이동시킨 좌표를 move모드에 있는 클라이언트들에게 전송
 >>>
 >>>chat모드 : text를 전송했을때 chat모드에 있는 클라이언트들에게 전송
+>>>>chat->move 채팅창에 /moveMode입력
+>>>>
+>>>>move->chat q pressed
+
 ![3](https://user-images.githubusercontent.com/70618998/121803823-40cc2b80-cc7e-11eb-804e-aadc0ebdb5ce.png)
+
 >>4.위 move모드와 chat모드를 따로 나누어 
