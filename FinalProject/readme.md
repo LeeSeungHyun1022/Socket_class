@@ -11,6 +11,8 @@
 ![1](https://user-images.githubusercontent.com/70618998/121803536-1ded4780-cc7d-11eb-9792-21f309ab4a83.png)
 >>
 >>2.서버에 접속된 클라이언트들끼리 메시지를 주고받을 수 있어야한다
+https://github.com/LeeSeungHyun1022/Socket_class/issues/3#issue-919767283
+>>
 
 >기능 및 차이점
 >>3.move모드와 chat모드를 따로 나눠 설계한다
