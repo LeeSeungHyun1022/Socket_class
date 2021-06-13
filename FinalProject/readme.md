@@ -11,7 +11,7 @@
 ![1](https://user-images.githubusercontent.com/70618998/121803536-1ded4780-cc7d-11eb-9792-21f309ab4a83.png)
 >>
 >>2.서버에 접속된 클라이언트들끼리 메시지를 주고받을 수 있어야한다
-https://github.com/LeeSeungHyun1022/Socket_class/issues/3#issue-919767283
+![2](https://user-images.githubusercontent.com/70618998/121803603-6c024b00-cc7d-11eb-832a-c4f183690e7c.png)
 >>
 
 >기능 및 차이점
